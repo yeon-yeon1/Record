@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/missonary-project/static/css/main.f0f863e7.css",
+    "main.js": "/missonary-project/static/js/main.e943b8a6.js",
+    "static/js/453.d855a71b.chunk.js": "/missonary-project/static/js/453.d855a71b.chunk.js",
+    "static/media/slick.svg": "/missonary-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/missonary-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/missonary-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/missonary-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/missonary-project/index.html",
+    "main.f0f863e7.css.map": "/missonary-project/static/css/main.f0f863e7.css.map",
+    "main.e943b8a6.js.map": "/missonary-project/static/js/main.e943b8a6.js.map",
+    "453.d855a71b.chunk.js.map": "/missonary-project/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f863e7.css",
+    "static/js/main.e943b8a6.js"
+  ]
+}
